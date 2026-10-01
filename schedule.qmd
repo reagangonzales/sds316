@@ -70,13 +70,13 @@ Week of October 5
 
 
 
-## Week 6
+## Week 6 - MIDTERM WEEK 
 
 Week of October 12
 
--   By W6.C1
 
-    -   Read Chapters 6 & 7 of *Predict and Surveil*. Bring your book to class.
+-   By W6.C1
+    -   NO CLASS: Fall Break!
     
 -   By W6.C2
 
@@ -84,21 +84,22 @@ Week of October 12
     - Initial writing about what you're discovering
 
 
+Midterm exams will happen between October 14 and 19 and must be in person!  Use [this link](https://calendar.app.google/F31WsHELMJRGvW9z7) to schedule
 
-## Week 7
+## Week 7 
 
 Week of October 19
 
 - By W7.C1
 
-    - Read Chapter 8 of *Predict and Surveil*. Bring your book to class
+    - Read Chapters 6-8 of *Predict and Surveil*. (This is a lot, but it includes the reading for fall break.)
 
 - By W7.C2
 
     - NO CLASS TODAY (Nikko will be at a conference)
     - Stage 2 deliverable due (PR open, and all tests passing!)
 
-## Week 8 - MIDTERM WEEK
+## Week 8 
 
 Week of October 26
 
